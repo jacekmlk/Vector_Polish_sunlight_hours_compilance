@@ -1,7 +1,7 @@
 # Vector_Polish_sunlight_hours_compilance
  Rhino Grasshopper/Ladybug daylight analysys definition
 
- ![Rhino output](Vector_Polish_sunlight_hours_compilance_Rhino.png)
+ ![Rhino output](img/Vector_Polish_sunlight_hours_compilance_Rhino.png)
 
 This definition generate hour-by hour shadow analysys. Outpout is set of colored polylines.
 Default time are spring and autumn eqquinox.

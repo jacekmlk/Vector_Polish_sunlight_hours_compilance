@@ -3,7 +3,7 @@
 
  ![Rhino output](img/Vector_Polish_sunlight_hours_compilance_Rhino.png)
 
-This definition generate hour-by hour shadow analysys. Outpout is set of colored polylines.
+This definition generate hour-by hour shadow analysys. Output is set of colored polylines.
 Default time are spring and autumn eqquinox.
 
 Definition accept multiple breps.
